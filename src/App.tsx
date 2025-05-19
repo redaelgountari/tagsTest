@@ -1,4 +1,3 @@
-import React from 'react';
 import ButtonClickTracker from "./ButtonClickTracker";
 
 function App() {
